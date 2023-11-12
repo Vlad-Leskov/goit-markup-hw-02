@@ -18,6 +18,8 @@ a:link {
     text-decoration: none;
 }
 
+/* HEADER */
+
 .logo {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
@@ -62,6 +64,7 @@ a:link {
     color: #404BBF;
 }
 
+/* HERO SECTION 1 */
 .main-section {
     background-color: #2e2f42
 }
@@ -89,6 +92,8 @@ a:link {
     background-color: #404BBF;
 }
 
+/* BENEFITS SECTION 2 */
+
 .benefits-title {
     color: #2E2F42;
     text-align: center;
@@ -113,6 +118,8 @@ a:link {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+/* OUR TEAM SECTION 3 */
 
 .our-team-title {
     color: #2E2F42;
@@ -148,9 +155,41 @@ a:link {
 
 }
 
+/* OUR PORTFOLIO SECTION 4 */
+
+.our-portfolio-title {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.our-portfolio-list-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.our-portfolio-list-text {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* FOOTER */
+
+.footer {
+    background: #2E2F42;
+}
+
 .logo-footer {
-    background:#2E2F42;
-    color: #F4F4FD;
+    color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -160,10 +199,11 @@ a:link {
 }
 
 .footer-logo-web {
-    color:#4D5AE5;
+    color:#f4f4fd;
 }
 
 .footer-text {
-    background: #2E2F42;
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
